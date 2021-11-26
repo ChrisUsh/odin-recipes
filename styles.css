@@ -1,0 +1,35 @@
+*{
+    background-color: rgb(101, 158, 101);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+ }
+
+h1{
+    text-align: center;
+    color:white;
+    text-shadow: wheat;
+ }    
+
+h2{
+    text-align: center;
+    color:white;
+    text-shadow: wheat
+}
+
+img{
+    display:block;
+    margin: auto;
+}
+p{
+    color:yellow;
+    text-align: justify;
+    text-decoration: wheat;
+}
+
+ul{
+    color: yellow;
+    font-weight: bolder;
+}
+
+li{
+    color: yellow;
+}
